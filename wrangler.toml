@@ -1,0 +1,6 @@
+name = "ravina_full_stack"
+type = "javascript"
+account_id = "60bcca38a1bcfe0ee98aa8e3df0385b5"
+workers_dev = true
+route = ""
+zone_id = ""
